@@ -1,0 +1,8 @@
+.idea/
+venv/
+*.db
+*.xls
+test1/
+test2/
+__pychche__/
+main.py
